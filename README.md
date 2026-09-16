@@ -52,16 +52,6 @@ Empresa → Necessidade → Tecnologia → Solução 🚀
 
 Este projeto representa uma das minhas primeiras experiências colocando programação em prática em um contexto real.
 
-📊 Minhas estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArthurLima-1&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLima-1&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas">
-
-</div>
-
 🔥 Minha sequência
 
 <div align="center">
